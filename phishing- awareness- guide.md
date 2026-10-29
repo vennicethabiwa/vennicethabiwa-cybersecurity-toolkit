@@ -1,25 +1,22 @@
-Phishing Awareness Guide for SME Staff
+# Phishing Awareness Guide for Small and Medium Enterprises (SMEs) in Botswana
 
-Why this guide:
-Many SMEs in Botswana get hacked because staff click fake emails. Most breaches start with phishing.
+## What is Phishing?
+Phishing is fake email or Short Message Service (SMS) that tries to steal your password or money (BOCRA, 2023).
 
-What is phishing:
-When attackers send fake email or SMS pretending to be real company like Mascom, FNB or hosting provider to steal your password.
+## Common Tricks in Botswana (BOCRA, 2023; CISA, 2024):
+1.  "Your BotswanaPost parcel is blocked, click link"
+2.  "You won P5000 from Mascom/Orange, send PIN"
+3.  Fake bank email from First National Bank (FNB) or Absa asking to verify account
 
-How to spot fake email:
+## How to Spot It (NIST, 2024):
+- Check sender email: support@fnb.co.bw is real, fnb-support@gmail.com is fake (CISA, 2024)
+- Do not click links urgently saying "act now"
+- Hover over link to see real Uniform Resource Locator (URL)
 
-- Check email address - Real company uses official domain, fake uses similar spelling with extra letters
-- Urgency - If email says act now or account deleted in 2 hours, its usually fake. They want you to panic
-- Links - Don't click directly. Hover with mouse first. If link shows http not https, be careful
-- They ask for password - No real company asks password via email
-- Unexpected attachments - zip, exe files you didn't expect
+## What to Do:
+- Do not click, do not reply, do not send money (CISA, 2024)
+- Report to manager and delete
+- Use Multi-Factor Authentication (MFA) - password + code from phone (Google, 2024)
 
-What to do if you get suspicious email:
-
-- Don't click link
-- Don't reply
-- Forward to IT - ir@company.co.bw
-- Call IT directly to verify
-- Enable MFA so even if password stolen they cannot login
-
-Local example: In Botswana we all get SMS You won P5000 click here or Your FNB account locked. I always verify by dialing *130*321# myself, not clicking link.
+## References
+BOCRA (2023), CISA (2024), NIST (2024). Full details in REFERENCES.md
