@@ -1,31 +1,21 @@
-Security Checklist for SME in Botswana
+# Small Business Security Checklist (Based on NIST, 2024 and BOCRA, 2023)
 
-Use this checklist every month to check your small business security. Mark yes or no.
+Use this every month for your Small and Medium Enterprise (SME).
 
-Password Security:
+Password Security (Google, 2024):
+- [ ] Use long passwords (12 characters) not 12345
+- [ ] Use different password for each account
+- [ ] Turn on Multi-Factor Authentication (MFA)
 
-- [ ] All staff use strong passwords with at least 8 characters
-- [ ] MFA enabled for email and bank accounts
-- [ ] No password sharing via WhatsApp
-- [ ] Default router password changed
+Device and Data (NIST, 2024):
+- [ ] Update Windows and phones every week
+- [ ] Install antivirus and scan
+- [ ] Backup customer data to external hard drive
+- [ ] Do not use public Wireless Fidelity (WiFi) for banking
 
-Device Security:
+Staff Training (BOCRA, 2023):
+- [ ] Teach staff about phishing
+- [ ] Lock computers when away
+- [ ] Do not plug unknown Universal Serial Bus (USB) flash drives
 
-- [ ] Windows and phones updated
-- [ ] Antivirus installed and updated
-- [ ] Screens lock after 5 minutes
-- [ ] USB drives scanned before opening
-
-Email and Internet:
-
-- [ ] Staff know how to spot phishing email
-- [ ] No clicking on P5000 win SMS links
-- [ ] Company WiFi has strong password, not guest123
-
-Data Backup:
-
-- [ ] Important files backed up weekly to external drive or Google Drive
-- [ ] Backup tested - can we restore?
-- [ ] Customer data not kept on personal phones
-
-If you checked less than 8 boxes, your SME is at high risk. Fix the missing items this week.
+Source: NIST Small Business Framework (NIST, 2024) and BOCRA SME Guide (BOCRA, 2023). See REFERENCES.md
